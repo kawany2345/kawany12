@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🫀
 
-Meu nome é Marcelo Paludetto
+Meu nome é Kawany VItoria
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
